@@ -1,0 +1,28 @@
+body {
+    background-color:lightblue;
+    color: rgb(12, 12, 12);
+    font-family: sans-serif;
+    margin-right: 35px;
+    margin-left: 35px;
+
+    background-image: url("https://akphoto1.ask.fm/991/649/525/910003029-1psosq8-4qcff0g8otd9cj5/original/sd.jpg");
+}       
+
+element.style {
+    background-color: rgb(22, 1, 1);
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+    padding-top: 40px;  
+
+}
+.testone {
+
+    padding-top:50px;
+
+    }
+
+.link {
+    margin-top: 100px;
+}
